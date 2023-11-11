@@ -1,2 +1,3 @@
 ﻿import asyncio
 
+import fire
