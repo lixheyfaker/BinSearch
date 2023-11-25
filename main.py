@@ -27,3 +27,4 @@ async def startup(
             ProductManager(),
             Architect(),
             ProjectManager(),
+        ]
