@@ -37,3 +37,4 @@ async def startup(
 
     if run_tests:
         # developing features: run tests on the spot and identify bugs
+        # (bug fixing capability comes soon!)
