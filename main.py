@@ -41,3 +41,4 @@ async def startup(
         company.hire([QaEngineer()])
 
     company.invest(investment)
+    company.start_project(idea)
