@@ -40,3 +40,4 @@ async def startup(
         # (bug fixing capability comes soon!)
         company.hire([QaEngineer()])
 
+    company.invest(investment)
