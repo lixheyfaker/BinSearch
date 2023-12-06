@@ -54,3 +54,4 @@ def main(
     implement: bool = True,
 ):
     """
+    We are a software startup comprised of AI. By investing in us,
