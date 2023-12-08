@@ -58,3 +58,4 @@ def main(
     you are empowering a future filled with limitless possibilities.
     :param idea: Your innovative idea, such as "Creating a snake game."
 
+import fire
