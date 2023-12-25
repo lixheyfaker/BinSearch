@@ -80,3 +80,4 @@ async def startup(
 ):
     """Run a startup. Be a boss."""
     company = SoftwareCompany()
+    company.hire(
