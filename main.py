@@ -86,3 +86,4 @@ async def startup(
             Architect(),
             ProjectManager(),
         ]
+    )
