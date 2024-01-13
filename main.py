@@ -105,3 +105,4 @@ async def startup(
 
 def main(
     idea: str,
+    investment: float = 3.0,
