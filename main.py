@@ -113,3 +113,4 @@ def main(
 ):
     """
     We are a software startup comprised of AI. By investing in us,
+    you are empowering a future filled with limitless possibilities.
