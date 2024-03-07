@@ -115,3 +115,4 @@ def main(
     We are a software startup comprised of AI. By investing in us,
     you are empowering a future filled with limitless possibilities.
     :param idea: Your innovative idea, such as "Creating a snake game."
+    :param investment: As an investor, you have the opportunity to contribute
