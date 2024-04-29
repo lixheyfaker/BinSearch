@@ -135,3 +135,4 @@ from metagpt.roles import (
     Architect,
     Engineer,
     ProductManager,
+    ProjectManager,
