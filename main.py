@@ -138,3 +138,4 @@ from metagpt.roles import (
     ProjectManager,
     QaEngineer,
 )
+from metagpt.software_company import SoftwareCompany
