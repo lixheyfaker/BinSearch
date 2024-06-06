@@ -164,3 +164,4 @@ async def startup(
         # developing features: implement the idea
         company.hire([Engineer(n_borg=5, use_code_review=code_review)])
 
+    if run_tests:
