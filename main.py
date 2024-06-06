@@ -162,3 +162,4 @@ async def startup(
     # if implement or code_review
     if implement or code_review:
         # developing features: implement the idea
+        company.hire([Engineer(n_borg=5, use_code_review=code_review)])
