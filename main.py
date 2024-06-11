@@ -172,3 +172,4 @@ async def startup(
     company.invest(investment)
     company.start_project(idea)
     await company.run(n_round=n_round)
+
