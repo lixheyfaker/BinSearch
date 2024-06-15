@@ -175,3 +175,4 @@ async def startup(
 
 
 def main(
+    idea: str,
