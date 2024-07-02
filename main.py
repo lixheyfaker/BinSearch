@@ -192,3 +192,4 @@ def main(
     :param code_review: Whether to use code review.
     :return:
     """
+    asyncio.run(startup(idea, investment, n_round, code_review, run_tests, implement))
