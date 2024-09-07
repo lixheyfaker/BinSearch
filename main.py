@@ -220,3 +220,4 @@ async def startup(
 import fire
 
 from metagpt.roles import (
+    Architect,
