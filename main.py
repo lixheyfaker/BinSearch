@@ -225,3 +225,4 @@ from metagpt.roles import (
     ProductManager,
     ProjectManager,
     QaEngineer,
+)
