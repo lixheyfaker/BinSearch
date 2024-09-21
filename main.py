@@ -242,3 +242,4 @@ async def startup(
     company.hire(
         [
             ProductManager(),
+            Architect(),
