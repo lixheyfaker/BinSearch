@@ -241,3 +241,4 @@ async def startup(
     company = SoftwareCompany()
     company.hire(
         [
+            ProductManager(),
