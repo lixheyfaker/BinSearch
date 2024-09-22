@@ -246,3 +246,4 @@ async def startup(
             ProjectManager(),
         ]
     )
+
