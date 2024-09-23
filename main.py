@@ -248,3 +248,4 @@ async def startup(
     )
 
     # if implement or code_review
+    if implement or code_review:
