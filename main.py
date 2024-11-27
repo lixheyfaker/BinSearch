@@ -316,3 +316,4 @@ async def startup(
             Architect(),
 import asyncio
 
+import fire
