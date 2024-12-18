@@ -329,3 +329,4 @@ from metagpt.software_company import SoftwareCompany
 
 
 async def startup(
+    idea: str,
