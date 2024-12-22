@@ -336,3 +336,4 @@ async def startup(
     run_tests: bool = False,
     implement: bool = True,
 ):
+    """Run a startup. Be a boss."""
