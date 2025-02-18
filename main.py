@@ -352,3 +352,4 @@ async def startup(
         company.hire([Engineer(n_borg=5, use_code_review=code_review)])
 
     if run_tests:
+        # developing features: run tests on the spot and identify bugs
