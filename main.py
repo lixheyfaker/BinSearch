@@ -355,3 +355,4 @@ async def startup(
         # developing features: run tests on the spot and identify bugs
         # (bug fixing capability comes soon!)
         company.hire([QaEngineer()])
+
