@@ -361,3 +361,4 @@ async def startup(
     await company.run(n_round=n_round)
 
 
+def main(
