@@ -375,3 +375,4 @@ def main(
     :param idea: Your innovative idea, such as "Creating a snake game."
     :param investment: As an investor, you have the opportunity to contribute
     a certain dollar amount to this AI company.
+    :param n_round:
