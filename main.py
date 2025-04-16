@@ -387,3 +387,4 @@ if __name__ == "__main__":
 # -*- coding: utf-8 -*-
 import asyncio
 
+import fire
