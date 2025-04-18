@@ -394,3 +394,4 @@ from metagpt.roles import (
     Engineer,
     ProductManager,
     ProjectManager,
+    QaEngineer,
