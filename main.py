@@ -416,3 +416,4 @@ async def startup(
 import asyncio
 
 import fire
+
