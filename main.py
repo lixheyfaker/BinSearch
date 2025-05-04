@@ -419,3 +419,4 @@ import fire
 
 from metagpt.roles import (
     Architect,
+    Engineer,
