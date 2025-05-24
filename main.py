@@ -436,3 +436,4 @@ async def startup(
     implement: bool = True,
 ):
     """Run a startup. Be a boss."""
+    company = SoftwareCompany()
