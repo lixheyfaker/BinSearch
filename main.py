@@ -473,3 +473,4 @@ def main(
     you are empowering a future filled with limitless possibilities.
     :param idea: Your innovative idea, such as "Creating a snake game."
     :param investment: As an investor, you have the opportunity to contribute
+    a certain dollar amount to this AI company.
